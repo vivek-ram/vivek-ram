@@ -1,4 +1,4 @@
-### Hello World, I'm Vivek  👋
+### Hello World, I'm Vivek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif?cid=ecf05e47pqlct26glrz5i4er8dov8fn8377t6h63qv872q4z&rid=giphy.gif&ct=g" width="400" height="300" />
 
