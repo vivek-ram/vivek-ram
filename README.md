@@ -29,6 +29,6 @@
 </p>
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-ram&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-ram&&repo=Flappy-Bird-Using-Artificial-Intelligence&theme=dark" />
+<img align="left" href="https://github.com/vivek-ram/Flappy-Bird-Using-Artificial-Intelligence" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-ram&&repo=Flappy-Bird-Using-Artificial-Intelligence&theme=dark" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-ram&&repo=Skin-Cancer-Prediction-IOS-app&theme=dark" />
 
