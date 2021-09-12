@@ -13,5 +13,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Right now, I’m reading about Crypto Trading
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-ram&theme=dark" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-ram&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-ram&&repo=Flappy-Bird-Using-Artificial-Intelligence&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vivek-ram&&repo=Skin-Cancer-Prediction-IOS-app&theme=dark" />
