@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Algo trading
 - 💬 Ask me about Machine Learning , Data Science and Data analytics
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vvd-ram) , [Gmail](viveksivaram00@gmail.com)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Right now, I’m reading about Crypto Trading
 
 
