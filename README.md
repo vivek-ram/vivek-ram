@@ -4,12 +4,12 @@
 
 
 ## I'm passionate in machine learning and deep learing 😆
-- 🔭 I’m currently working on Google data analytics professional certification
+- 🔭 I’m currently working on Kaggle dataset
 - 🌱 I’m currently learning R                                             
 - 🧑🏽‍💻 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Algo trading
 - 💬 Ask me about Machine Learning , Data Science and Data analytics
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vvd-ram) , [Gmail](viveksivaram00@gmail.com)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vvd-ram) , [Gmail](viveksivaram00@gmail.com) , [Kaggle](https://www.kaggle.com/ddvram)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Right now, I’m reading about Crypto Trading
 
